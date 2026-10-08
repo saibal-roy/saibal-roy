@@ -2,9 +2,13 @@
 
 **Engineering Manager · AWS · DevOps & SRE · Building scalable solutions & teams**
 
-Engineering Manager with 13+ years of experience: founding engineer turned Engineering Manager at Techno Exponent, where I run cloud delivery with a DevOps team across engagements in legal technology, insurance technology and scientific research. Those engagements share one AWS deployment pattern (ECS and ECR, infrastructure as code, the same CI pipeline shape), so a new one starts from something already proven in production. I own architecture, delivery and the team end to end, and I'm the client's single point of contact. Still hands-on.
+I've been building software for 13+ years, most of them at Techno Exponent, where I started as a founding engineer and grew into the Engineering Manager who runs cloud delivery. Today my DevOps team looks after engagements in legal technology, insurance technology and scientific research.
 
-**I build open source from real production requirements:** reusable business solutions designed for cost-effectiveness and reliability, with the systems thinking published alongside the code.
+All of them run on one AWS deployment pattern: ECS and ECR, infrastructure as code, the same CI pipeline shape. So when a new engagement starts, we aren't designing from scratch. We're setting up something that already works in production.
+
+I own the architecture, the delivery and the team end to end, and I'm the client's single point of contact. I'm still hands-on.
+
+Outside client work, I build open source the same way: I start from a real production requirement and turn it into a reusable solution that's cheap to run and reliable enough to trust.
 
 #### How I build
 - **Cost first:** start from the unit economics and size down to the smallest machine that measurably works.

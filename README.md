@@ -16,7 +16,7 @@ Outside client work, I build open source the same way: I start from a real produ
 - **Evidence before decisions:** benchmarks, written down with the trade-off and who decided.
 - **Secure and maintainable by default:** localhost-only services, no stored credentials, pinned versions, one supported platform.
 
-The prompts I build with: [saibal-roy.github.io/prompts.md](https://github.com/saibal-roy/saibal-roy.github.io/blob/main/prompts.md)
+The prompts I build with: [docling-batch-extract/prompts](https://saibal-roy.github.io/docling-batch-extract/prompts/)
 
 #### Featured
 - **[docling-batch-extract](https://github.com/saibal-roy/docling-batch-extract)**: batch PDF → Markdown for RAG on one CPU-only 2 vCPU / 8 GB server, for legal and claims-insurance documents, including scans. A 23,500-page pilot is estimated at about $3–11 of compute, against $35–353 on a cloud OCR API. 18 acceptance checks, validated on Ubuntu 26.04 LTS. [Docs](https://saibal-roy.github.io/docling-batch-extract/) · [How it was built](https://saibal-roy.github.io/docling-batch-extract/STORY/)

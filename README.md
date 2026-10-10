@@ -2,9 +2,9 @@
 
 **Engineering Manager · AWS · DevOps & SRE · Building scalable solutions & teams**
 
-I've been building software for 13+ years, most of them at Techno Exponent, where I started as a founding engineer and grew into the Engineering Manager who runs cloud delivery. Today my DevOps team looks after engagements in legal technology, insurance technology and scientific research.
+I've been building software for 13+ years, most of them at Techno Exponent, where I started as a founding engineer and grew into the Engineering Manager who runs cloud delivery. Today the DevOps team I built from scratch looks after engagements in legal technology and insurance technology.
 
-All of them run on one AWS deployment pattern: ECS and ECR, infrastructure as code, the same CI pipeline shape. So when a new engagement starts, we aren't designing from scratch. We're setting up something that already works in production.
+All of them run on one AWS deployment pattern: ECS and ECR, infrastructure as code, the same CI pipeline shape. So when a new engagement starts, we aren't facing a blank page. We're setting up something that already works in production.
 
 I own the architecture, the delivery and the team end to end, and I'm the client's single point of contact. I'm still hands-on.
 
